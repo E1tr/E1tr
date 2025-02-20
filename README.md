@@ -38,14 +38,15 @@
 
 <img src="https://raw.githubusercontent.com/e1tr/e1tr/output/snake.svg" alt="Snake animation" />
 
+
 ###
 
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w0brjcetblqacq8zxrnqkiudc&redirect=true" target="_self" title="Open In Spotify">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gastian02&redirect=true" target="_self" title="Open In Spotify">
           <img
-            src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w0brjcetblqacq8zxrnqkiudc&cover_image=true&theme=default&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true"
+            src="https://spotify-github-profile.kittinanx.com/api/view?uid=gastian02&cover_image=true&theme=default&show_offline=false&background_color=transparent&interchange=true&bar_color=09ff00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"
             style="height: 380px"/>
-  </a>>
+  </a>
 </div>
 
 ###
