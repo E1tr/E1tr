@@ -41,9 +41,12 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/gastian02">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gastian02&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w0brjcetblqacq8zxrnqkiudc&redirect=true" target="_self" title="Open In Spotify">
+          <img
+            src="[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w0brjcetblqacq8zxrnqkiudc&cover_image=true&theme=default&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true"
+            style="height: 380px](https://spotify-github-profile.kittinanx.com/api/view?uid=gastian02&cover_image=true&theme=default&show_offline=false&background_color=transparent&interchange=true&bar_color=09ff00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"
+          />
+        </a>
 </div>
 
 ###
