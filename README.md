@@ -1,5 +1,5 @@
 <!-- Welcome Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=9b59b6,2ecc71&text=Hi+there!+%F0%9F%91%8B+I'm+Dani&fontSize=35&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=9b59b6,8e44ad&text=Hi+there!+%F0%9F%91%8B+I'm+Dani&fontSize=35&animation=fadeIn&fontColor=ffffff" />
 
 <div align="center">
   <div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
@@ -25,7 +25,7 @@
 ---
 
 <!-- About Me -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2ecc71,9b59b6&height=45&section=header&text=🌟%20About%20Me%20&fontSize=25&fontAlign=50&fontAlignY=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8e44ad,9b59b6&height=45&section=header&text=🌟%20About%20Me%20&fontSize=25&fontAlign=50&fontAlignY=50&fontColor=ffffff" />
 
 <div align="center">
   <!-- Typing SVG (Green Text) -->
@@ -34,7 +34,7 @@
 
 ```typescript
 const dani = {
-  name: "Daniel Garmendia",
+  name: "Daniel García Micó",
   role: "🎓 Student of DAM (Cross-platform App Development)",
   location: "Spain 🇪🇸",
   passion: "Full Stack Development & Creative Coding",
@@ -53,7 +53,7 @@ const dani = {
 ---
 
 <!-- Tech Arsenal -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9b59b6,2ecc71&height=45&section=header&text=🔥%20Tech%20Arsenal%20&fontSize=25&fontAlign=50&fontAlignY=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9b59b6,8e44ad&height=45&section=header&text=🔥%20Tech%20Arsenal%20&fontSize=25&fontAlign=50&fontAlignY=50&fontColor=ffffff" />
 
 <div align="center">
 
@@ -96,8 +96,9 @@ const dani = {
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 
 ### 🚀 Currently Learning
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 
 </div>
 
@@ -107,7 +108,7 @@ const dani = {
 
 <!-- GitHub Analytics (Purple/Green Theme) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2ecc71,9b59b6&height=45&section=header&text=📊%20GitHub%20Analytics&fontSize=25&fontAlign=50&fontAlignY=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8e44ad,9b59b6&height=45&section=header&text=📊%20GitHub%20Analytics&fontSize=25&fontAlign=50&fontAlignY=50&fontColor=ffffff" />
   
   <br/><br/>
 
@@ -137,7 +138,7 @@ const dani = {
 ---
 
 <!-- Spotify & Connect -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9b59b6,2ecc71&height=45&section=header&text=🎵%20&%20🌐&fontSize=25&fontAlign=50&fontAlignY=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9b59b6,8e44ad&height=45&section=header&text=🎵%20&%20🌐&fontSize=25&fontAlign=50&fontAlignY=50&fontColor=ffffff" />
 
 <div align="center">
   <br/>
@@ -159,4 +160,4 @@ const dani = {
 <br/><br/>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2ecc71,9b59b6&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlign=50&fontAlignY=40&desc=Code%20your%20dreams%20✨&descAlign=50&descAlignY=60&animation=twinkling&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8e44ad,9b59b6&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlign=50&fontAlignY=40&desc=Code%20your%20dreams%20✨&descAlign=50&descAlignY=60&animation=twinkling&fontColor=ffffff" />
